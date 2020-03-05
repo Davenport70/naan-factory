@@ -34,6 +34,12 @@ How it works is that we write unit tests.
 
 Tests single pieces of code. Like a function.
 
+**base of a test**
+test usually has 3 phases.
+- setup phase (known variables)
+- calling of the function / piece of code with known variables
+- asserting for expected output
+
 ### User stories for Naan Factory
 
 ```
