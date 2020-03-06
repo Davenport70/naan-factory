@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33718462-354c-4183-bb09-e3546cce283d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test_naan_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naan_factory_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_naan_factory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitignore." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naan_factory_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/naan_factory_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_naan_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_naan_factory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,22 +123,26 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="431" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1583425914115" />
-    <state width="1379" height="199" key="GridCell.Tab.0.bottom" timestamp="1583431565147">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="199" key="GridCell.Tab.0.bottom" timestamp="1583483631498">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583431565147" />
-    <state width="1379" height="199" key="GridCell.Tab.0.center" timestamp="1583431565145">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583483631498" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583432559876" />
+    <state width="1419" height="199" key="GridCell.Tab.0.center" timestamp="1583483631496">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583431565145" />
-    <state width="1379" height="199" key="GridCell.Tab.0.left" timestamp="1583431565144">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583483631496" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583432559874" />
+    <state width="1419" height="199" key="GridCell.Tab.0.left" timestamp="1583483631494">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583431565144" />
-    <state width="1379" height="199" key="GridCell.Tab.0.right" timestamp="1583431565146">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583483631494" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583432559872" />
+    <state width="1419" height="199" key="GridCell.Tab.0.right" timestamp="1583483631497">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583431565146" />
+    <state width="1419" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583483631497" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583432559875" />
     <state x="363" y="50" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583429624066">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
